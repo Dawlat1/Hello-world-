@@ -1,0 +1,5 @@
+a = "Hello"
+b = "world"
+def greeting():
+    print("%s %s" % (a, b))
+greeting()
